@@ -1,6 +1,7 @@
 # Space Impact !?
 
 This is a Space Impact-like game I wrote for a university course.
+
 It doesn't use any lib, it's written in JavaScript and HTML.
 
 Here is a screenshot from the menu:
