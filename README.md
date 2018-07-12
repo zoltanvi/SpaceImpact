@@ -4,7 +4,9 @@ This is a Space Impact clone I wrote for a university course.
 
 It doesn't use any lib, it's written in JavaScript and HTML.
 
-###### Screenshots from the game
+You can play the game here: [zoltanvi.github.io](https://zoltanvi.github.io/).
+
+## Screenshots from the game
 
 ![alt text](https://user-images.githubusercontent.com/27699756/40259293-cd97b794-5af5-11e8-8c58-8e5ca6bde865.jpg)
 
