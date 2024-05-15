@@ -192,7 +192,6 @@ function menuButtonHover(ev) {
 }
 
 var frameCount = 0;
-var $results = $("#results");
 var fps, fpsInterval, startTime, now, then, elapsed;
 
 function startAnimating(fps) {
@@ -221,11 +220,6 @@ function animate() {
 
         // draw next frame
         playGame();
-
-        // TESTING...Report #seconds since start and achieved fps.
-        var sinceStart = now - startTime;
-        var currentFps = Math.round(1000 / (sinceStart / ++frameCount) * 100) / 100;
-        $results.text("Elapsed time= " + Math.round(sinceStart / 1000 * 100) / 100 + " secs @ " + currentFps + " fps.");
     }
 
 }
